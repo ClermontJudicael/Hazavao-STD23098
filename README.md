@@ -1,6 +1,6 @@
 # poja-starter-template
 
-_Add api key to src/resources/application.properties_
+Add api key to src/main/resources/application.properties
 ```
 openai.api.key="API_KEY"
 ```
